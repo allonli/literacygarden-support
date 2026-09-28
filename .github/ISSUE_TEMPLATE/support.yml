@@ -1,0 +1,35 @@
+name: 使用问题
+description: 请勿提交儿童个人资料、账号、密码或学习备份。
+title: "[使用问题] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        此处的问题和附件对所有人公开。请由家长填写，不要提交孩子真实姓名、Apple 账户、密码、学习备份或未遮挡的截图。
+        请保留本机资料，不要为了排查问题反复重置或删除 App。
+  - type: input
+    id: app_version
+    attributes:
+      label: App 版本
+      placeholder: 例如 1.0.0（1）
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: 机型与系统版本
+      placeholder: 例如 iPhone 16，iOS 27.0（无需设备序列号）
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 操作步骤与看到的结果
+      description: 说明从哪个页面进入、做了什么、期望与实际结果。请先去除个人资料。
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: 错误提示（可选）
+      description: 只填写已去除个人资料的错误文字，不上传学习备份。
