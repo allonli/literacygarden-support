@@ -40,7 +40,7 @@ App 无需注册账号，不依赖原网站的服务器，也不会把 App 学�
 
 ## 支持网站与公开反馈
 
-本支持内容托管在 GitHub，另提供 GitHub Pages 静态版本。维护者未在静态页面中加入广告、网站分析脚本或跟踪 Cookie。GitHub 自身的网页与账户服务可能使用 Cookie，并为网站安全等目的处理访问者的 IP 地址等技术资料，具体见 [GitHub 隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。
+本支持内容托管在 GitHub。维护者未在页面内容中加入广告、网站分析脚本或跟踪 Cookie。GitHub 自身的网页与账户服务可能使用 Cookie，并为网站安全等目的处理访问者的 IP 地址等技术资料，具体见 [GitHub 隐私声明](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)。
 
 家长可通过 [GitHub Issues](https://github.com/allonli/literacygarden-support/issues) 联系维护者。提交问题需要 GitHub 账户；你提交的用户名、问题文字和附件会公开显示，维护者可以读取并回复。请只提供排查所需的 App 版本、机型、系统版本和操作步骤，不要上传孩子真名、Apple 账户、密码、学习备份或未遮挡的个人截图。如需更正或删除自己的反馈，请使用 GitHub 的编辑或删除功能；如需协助，可在原问题中提出不含个人资料的请求。
 
